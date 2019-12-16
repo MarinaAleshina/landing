@@ -23,7 +23,7 @@ Project is created with:
 * Visual Studio Code or any text editor 
 	
 ## Setup
-Yuo can use git clone https://git@github.com:MarinaAleshina/landing.git or you can simply download the zip and extract to you folder
+Yuo can use git clone https://marinaaleshina.github.io/landing/ or you can simply download the zip and extract to you folder
 
 ## Testing
 This ptoject is tested against different browser. For this I have used web server for chrome extension 
