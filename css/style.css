@@ -1561,10 +1561,9 @@ time {
     margin: 0 auto 58px;
 }
 
-.footer-content .logo {
+#footer .logo {
     display: block;
     width: 78px;
-    padding: 0 10px;
     margin: 0 auto 25px;
 }
 
@@ -1608,7 +1607,7 @@ time {
     transform: rotate(45deg);
 }
 
-.footer-content span {
+#footer span {
     display: block;
     color: #999;
     font-size: 11px;
